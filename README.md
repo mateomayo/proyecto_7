@@ -6,3 +6,5 @@ Este proyecto contiene una interfaz con dos botones que generan gráficos a part
 - **Botón 2**: Muestra un gráfico de dispersión.
 
 Puedes interactuar con estos botones para visualizar diferentes representaciones gráficas de los datos.
+
+URL: https://proyecto-7-flz6.onrender.com/ 
